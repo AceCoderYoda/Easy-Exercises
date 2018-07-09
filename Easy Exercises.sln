@@ -22,6 +22,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Answers", "Easy Exercises\02. Answers\02. Answers.csproj", "{2885C832-420C-467B-AD0E-5580E8C6C8A5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Conditional Statements", "03. Conditional Statements", "{B72D5A24-560B-44AF-8D84-051BCF6287C4}"
+	ProjectSection(SolutionItems) = preProject
+		Easy Exercises\03. Conditional Statements.txt = Easy Exercises\03. Conditional Statements.txt
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Questions", "Easy Exercises\05. Questions\05. Questions.csproj", "{FEA1F2F4-AACA-46C1-B9DE-8E86E40A99A8}"
 EndProject
