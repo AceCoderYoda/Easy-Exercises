@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Basics", "01. Basics", "{3297F29E-8FD1-48A3-B810-260002520071}"
 	ProjectSection(SolutionItems) = preProject
-		01. Basic Assignments.txt = 01. Basic Assignments.txt
+		Easy Exercises\01. Basic Assignments.txt = Easy Exercises\01. Basic Assignments.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Questions", "Easy Exercises\01. Questions\01. Questions.csproj", "{F1E499E7-DDDB-4EC6-8A09-F7AA3A9FDE47}"
