@@ -1,0 +1,11 @@
+01. Write a C# Sharp program that takes three letters as input and display them in reverse order.
+02. Write a C# Sharp program that takes a number and a width also a number, as input and then displays a triangle of that width, using that number.
+03. Write a C# Sharp program that takes userid and password as input (type string). After 3 wrong attempts, user will be rejected.
+04. Write a C# Sharp program that takes two numbers as input and perform an operation (+,-,*,x,/) on them and displays the result of that operation.
+05. Write a C# Sharp program that takes the radius of a circle as input and calculate the perimeter and area of the circle.
+06. Write a C# Sharp program to display certain values of the function x = y2 + 2y + 1 (using integer numbers for y , ranging from -5 to +5).
+07. Write a C# Sharp program that takes distance and time as input and displays the speed in kilometers per hour and miles per hour.
+08. Write a C# Sharp program that takes the radius of a sphere as input and calculate and display the surface and volume of the sphere.
+09. Write a C# Sharp program that takes a character as input and check the input (lowercase) is a vowel, a digit, or any other symbol.
+10. Write a C# Sharp program that takes two numbers as input and returns true or false when both numbers are even or odd.
+11. Write a C# Sharp program that takes a decimal number as input and displays its equivalent in binary form.

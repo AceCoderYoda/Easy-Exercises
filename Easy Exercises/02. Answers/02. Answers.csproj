@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2885C832-420C-467B-AD0E-5580E8C6C8A5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Easy_Exercises</RootNamespace>
+    <AssemblyName>_02.Answers</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Exercise001.cs" />
+    <Compile Include="Exercise002.cs" />
+    <Compile Include="Exercise003.cs" />
+    <Compile Include="Exercise004.cs" />
+    <Compile Include="Exercise005.cs" />
+    <Compile Include="Exercise006.cs" />
+    <Compile Include="Exercise007.cs" />
+    <Compile Include="Exercise008.cs" />
+    <Compile Include="Exercise009.cs" />
+    <Compile Include="Exercise010.cs" />
+    <Compile Include="Exercise011.cs" />
+    <Compile Include="Exercise012.cs" />
+    <Compile Include="Exercise013.cs" />
+    <Compile Include="Exercise014.cs" />
+    <Compile Include="Exercise015.cs" />
+    <Compile Include="Exercise016.cs" />
+    <Compile Include="Exercise017.cs" />
+    <Compile Include="Exercise018.cs" />
+    <Compile Include="Exercise019.cs" />
+    <Compile Include="Exercise020.cs" />
+    <Compile Include="Exercise021.cs" />
+    <Compile Include="Exercise022.cs" />
+    <Compile Include="Exercise023.cs" />
+    <Compile Include="Exercise024.cs" />
+    <Compile Include="Exercise025.cs" />
+    <Compile Include="Exercise026.cs" />
+    <Compile Include="Exercise027.cs" />
+    <Compile Include="Exercise028.cs" />
+    <Compile Include="Exercise029.cs" />
+    <Compile Include="Exercise030.cs" />
+    <Compile Include="Exercise031.cs" />
+    <Compile Include="Exercise032.cs" />
+    <Compile Include="Exercise033.cs" />
+    <Compile Include="Exercise034.cs" />
+    <Compile Include="Exercise035.cs" />
+    <Compile Include="Exercise036.cs" />
+    <Compile Include="Exercise037.cs" />
+    <Compile Include="Exercise038.cs" />
+    <Compile Include="Exercise039.cs" />
+    <Compile Include="Exercise040.cs" />
+    <Compile Include="Exercise041.cs" />
+    <Compile Include="Exercise042.cs" />
+    <Compile Include="Exercise043.cs" />
+    <Compile Include="Exercise044.cs" />
+    <Compile Include="Exercise045.cs" />
+    <Compile Include="Exercise046.cs" />
+    <Compile Include="Exercise047.cs" />
+    <Compile Include="Exercise048.cs" />
+    <Compile Include="Exercise049.cs" />
+    <Compile Include="Exercise050.cs" />
+    <Compile Include="Exercise051.cs" />
+    <Compile Include="Exercise052.cs" />
+    <Compile Include="Exercise053.cs" />
+    <Compile Include="Exercise054.cs" />
+    <Compile Include="Exercise055.cs" />
+    <Compile Include="Exercise056.cs" />
+    <Compile Include="Exercise057.cs" />
+    <Compile Include="Exercise058.cs" />
+    <Compile Include="Exercise059.cs" />
+    <Compile Include="EXercise060.cs" />
+    <Compile Include="Exercise061.cs" />
+    <Compile Include="Exercise062.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

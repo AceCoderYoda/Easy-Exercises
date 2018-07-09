@@ -1,0 +1,16 @@
+01. Write a C# Sharp program to accept two integers and check whether they are equal or not.
+02. Write a C# Sharp program to check whether a given number is even or odd.
+03. Write a C# Sharp program to check whether a given number is positive or negative.
+04. Write a C# Sharp program to find whether a given year is a leap year or not.
+05. Write a C# Sharp program to read the age of a candidate and determine whether it is eligible for casting his/her own vote.
+06. Write a C# Sharp program to read the value of an integer m and display the value of n is 1 when m is larger than 0, 0 when m is 0 and -1 when m is less than 0.
+07. Write a C# Sharp program to accept the height of a person in centimeter and categorize the person according to their height.
+08. Write a C# Sharp program to find the largest of three numbers.
+09. Write a C# Sharp program to accept a coordinate point in an XY coordinate system and determine in which quadrant the coordinate point lies
+10. Write a C# Sharp program to find the eligibility of admission for a professional course based on the following criteria: 
+		Marks in Maths >=65
+		Marks in Phy >=55
+		Marks in Chem>=50
+		Total in all three subject >=180
+		or
+		Total in Math and Subjects >=140
