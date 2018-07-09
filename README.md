@@ -98,15 +98,15 @@ Easy todo exercises in C# for beginners.
 		Total in Math and Subjects >=140
 
 ## 04 For Loop
-1. 	Write a program in C# Sharp to display the first 10 natural numbers
-2. 	Write a C# Sharp program to find the sum of first 10 natural numbers.
-3. 	Write a program in C# Sharp to display n terms of natural number and their sum.
-4. 	Write a program in C# Sharp to read 10 numbers from keyboard and find their sum and average.
-5. 	Write a program in C# Sharp to display the cube of the number upto given an integer.
-6. 	Write a program in C# Sharp to display the multiplication table of a given integer.
-7. 	Write a program in C# Sharp to display the multiplication table vertically from 1 to n. 
-8. 	Write a program in C# Sharp to display the n terms of odd natural number and their sum.
-9. 	Write a program in C# Sharp to display the pattern like right angle triangle using an asterisk.
+1. Write a program in C# Sharp to display the first 10 natural numbers
+2. Write a C# Sharp program to find the sum of first 10 natural numbers.
+3. Write a program in C# Sharp to display n terms of natural number and their sum.
+4. Write a program in C# Sharp to read 10 numbers from keyboard and find their sum and average.
+5. Write a program in C# Sharp to display the cube of the number upto given an integer.
+6. Write a program in C# Sharp to display the multiplication table of a given integer.
+7. Write a program in C# Sharp to display the multiplication table vertically from 1 to n. 
+8. Write a program in C# Sharp to display the n terms of odd natural number and their sum.
+9. Write a program in C# Sharp to display the pattern like right angle triangle using an asterisk.
 10. Write a program in C# Sharp to display the pattern like right angle triangle with a number. 
 11. Write a program in C# Sharp to make such a pattern like right angle triangle with a number which will repeat a number in a row.
 12. Write a program in C# Sharp to make such a pattern like right angle triangle with number increased by 1.
@@ -181,3 +181,36 @@ Easy todo exercises in C# for beginners.
 81. Write a C#Sharp program to display alphabet pattern like X with an asterisk.
 82. Write a C#Sharp program to display alphabet pattern like Y with an asterisk.
 83. Write a C#Sharp program to display alphabet pattern like Z with an asterisk.
+
+## 05. Arrays
+1. Write a program in C# Sharp to store elements in an array and print it
+2. Write a program in C# Sharp to read n number of values in an array and display it in reverse order.
+3. Write a program in C# Sharp to find the sum of all elements of the array. 
+4. Write a program in C# Sharp to copy the elements one array into another array.
+5. Write a program in C# Sharp to count a total number of duplicate elements in an array.
+6. Write a program in C# Sharp to print all unique elements in an array. 
+7. Write a program in C# Sharp to merge two arrays of same size sorted in ascending order. 
+8. Write a program in C# Sharp to count the frequency of each element of an array.
+9. Write a program in C# Sharp to find maximum and minimum element in an array. 
+10. Write a programin C# Sharp to separate odd and even integers in separate arrays.
+11. Write a program in C# Sharp to sort elements of array in ascending order.
+12. Write a program in C# Sharp to sort elements of the array in descending order. 
+13. Write a program in C# Sharp to insert New value in the array (sorted list ). 
+14. Write a program in C# Sharp to insert New value in the array (unsorted list ). 
+15. Write a program in C# Sharp to delete an element at desired position from an array.
+16. Write a program in C# Sharp to find the second largest element in an array. 
+17. Write a program in C# Sharp to find the second smallest element in an array. 
+18. Write a program in C# Sharp for a 2D array of size 3x3 and print the matrix. 
+19. Write a program in C# Sharp for addition of two Matrices of same size. 
+20. Write a program in C# Sharp for subtraction of two Matrices.
+21. Write a program in C# Sharp for multiplication of two square Matrices.
+22. Write a program in C# Sharp to find transpose of a given matrix.
+23. Write a program in C# Sharp to find sum of right diagonals of a matrix.
+24. Write a program in C# Sharp to find the sum of left diagonals of a matrix.
+25. Write a program in C# Sharp to find sum of rows an columns of a Matrix.
+26. Write a program in C# Sharp to print or display the lower triangular of a given matrix. 
+27. Write a program in C# Sharp to print or display upper triangular matrix. 
+28. Write a program in C# Sharp to calculate determinant of a 3 x 3 matrix.
+29. Write a program in C# Sharp to accept a matrix and determine whether it is a sparse matrix.
+30. Write a program in C# Sharp to accept two matrices and check whether they are equal. 
+31. Write a program in C# Sharp to Check whether a Given Matrix is an Identity Matrix.
