@@ -214,3 +214,16 @@ Easy todo exercises in C# for beginners.
 29. Write a program in C# Sharp to accept a matrix and determine whether it is a sparse matrix.
 30. Write a program in C# Sharp to accept two matrices and check whether they are equal. 
 31. Write a program in C# Sharp to Check whether a Given Matrix is an Identity Matrix.
+
+## 06. Searching & Sorting
+1.  Write a C# Sharp program to sort a list of elements using Shell sort
+2.  Write a C# Sharp program to sort a list of elements using Bogosort sort.
+3.  Write a C# Sharp program to sort a list of elements using Bubble sort. 
+4.  Write a C# Sharp program to sort a list of elements using Counting sort.
+5.  Write a C# Sharp program to sort a list of elements using Heap sort.
+6.  Write a C# Sharp program to sort a list of elements using Insertion sort.
+7.  Write a C# Sharp program to sort a list of elements using Merge sort. 
+8.  Write a C# Sharp program to sort a list of elements using Permutation sort.
+9.  Write a C# Sharp program to sort a list of elements using Quick sort.
+10. Write a C# Sharp program to sort a list of elements using the Radix sort algorithm. 
+11. Write a C# Sharp program to sort a list of elements using the Selection sort algorithm.
