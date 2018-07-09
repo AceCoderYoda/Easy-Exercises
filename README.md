@@ -96,3 +96,88 @@ Easy todo exercises in C# for beginners.
 		Total in all three subject >=180
 		or
 		Total in Math and Subjects >=140
+
+## 04 For Loop
+1. 	Write a program in C# Sharp to display the first 10 natural numbers
+2. 	Write a C# Sharp program to find the sum of first 10 natural numbers.
+3. 	Write a program in C# Sharp to display n terms of natural number and their sum.
+4. 	Write a program in C# Sharp to read 10 numbers from keyboard and find their sum and average.
+5. 	Write a program in C# Sharp to display the cube of the number upto given an integer.
+6. 	Write a program in C# Sharp to display the multiplication table of a given integer.
+7. 	Write a program in C# Sharp to display the multiplication table vertically from 1 to n. 
+8. 	Write a program in C# Sharp to display the n terms of odd natural number and their sum.
+9. 	Write a program in C# Sharp to display the pattern like right angle triangle using an asterisk.
+10. Write a program in C# Sharp to display the pattern like right angle triangle with a number. 
+11. Write a program in C# Sharp to make such a pattern like right angle triangle with a number which will repeat a number in a row.
+12. Write a program in C# Sharp to make such a pattern like right angle triangle with number increased by 1.
+13. Write a program in C# Sharp to make such a pattern like a pyramid with numbers increased by 1
+14. Write a program in C# Sharp to make such a pattern like a pyramid with an asterisk.
+15. Write a C# Sharp program to calculate the factorial of a given number.
+16. Write a program in C# Sharp to display the n terms of even natural number and their sum.
+17. Write a program in C# Sharp to make such a pattern like a pyramid witha number which will repeat the number in the same row.
+18. Write a program in C# Sharp to find the sum of the series [ 1-X^2/2!+X^4/4!- .........]
+19. Write a program in C# Sharp to display the n terms of harmonic series and their sum. 
+20. Write a program in C# Sharp to display the pattern like pyramid using an asterisk and each row contain an odd number of an asterisks. 
+21. Write a program in C# Sharp to display the sum of the series [ 9 + 99 + 999 + 9999 ...].
+22. Write a program in C# Sharp to print the Floyd's Triangle.
+23. Write a program in C# Sharp to display the sum of the series [ 1+x+x^2/2!+x^3/3!+....].
+24. Write a program in C# Sharp to find the sum of the series [ x - x^3 + x^5 + ......].
+25. Write a program in C# Sharp to display the n terms of square natural number and their sum.
+26. Write a program in C# Sharp to find the sum of the series 1 +11 + 111 + 1111 + .. n terms.
+27. Write a C# Sharp program to check whether a given number is perfect number or not.
+28. Write a C# Sharp program to find the perfect numbers within a given range of number.
+29. Write a C# Sharp program to check whether a given number is an Armstrong number or not.
+30. Write a C# Sharp program to find the Armstrong number for a given range of number.
+31. Write a program in C# Sharp to display the pattern like a diamond. 
+32. Write a C# Sharp program to determine whether a given number is prime or not.
+33. Write a C# Sharp program to display by Pascal's triangle.
+34. Write a program in C# Sharp to find the prime numbers within a range of numbers.
+35. Write a program in C# Sharp to display the first n terms of Fibonacci series. 
+36. Write a program in C# Sharp to display the such a pattern for n number of rows using a number which will start with the number 1 and the first and a last number of each row will be 1.
+37. Write a program in C# Sharp to display the number in reverse order.
+38. Write a program in C# Sharp to check whether a number is a palindrome or not. 
+39. Write a program in C# Sharp to find the number and sum of all integer between 100 and 200 which are divisible by 9.
+40. Write a C# Sharp Program to display the following pattern using the alphabet. 
+41. Write a program in C# Sharp to convert a decimal number into binary without using an array. 
+42. Write a program in C# Sharp to convert a binary number into a decimal number without using array, function and while loop.
+43. Write a C# Sharp program to find HCF (Highest Common Factor) of two numbers.
+44. Write a program in C# Sharp to find LCM of any two numbers using HCF
+45. Write a program in C# Sharp to find LCM of any two numbers.
+46. Write a program in C# Sharp to convert a binary number into a decimal number using math function.
+47. Write a C# Sharp program to check whether a number is a Strong Number or not.
+48. Write a C# Sharp program to find Strong Numbers within a range of numbers.
+49. Write a C# Sharp program to find out the sum of in A.P. series
+50. Write a program in C# Sharp to convert a decimal number into octal without using an array. 
+51. Write a program in C# Sharp to convert an octal number to decimal without using array.
+52. Write a program in C# Sharp to find the Sum of GP series.
+53. Write a program in C# Sharp to convert a binary number to octal.
+54. Write a program in C# Sharp to convert an octal number into binary.
+55. Write a program in C# Sharp to convert a decimal number to hexadecimal.
+56. Write a program in C# Sharp to Check Whether a Number can be Express as Sum of Two Prime Numbers.
+57. Write a program in C# Sharp to print a string in reverse order. 
+58. Write a C#Sharp program to display alphabet pattern like A with an asterisk.
+59. Write a C#Sharp program to display alphabet pattern like B with an asterisk.
+60. Write a C#Sharp program to display alphabet pattern like C with an asterisk.
+61. Write a C#Sharp program to display alphabet pattern like D with an asterisk. 
+62. Write a C#Sharp program to display alphabet pattern like E with an asterisk.
+63. Write a C#Sharp program to display alphabet pattern like F with an asterisk.
+64. Write a C#Sharp program to display alphabet pattern like G with an asterisk.
+65. Write a C#Sharp program to display alphabet pattern like H with an asterisk.
+66. Write a C#Sharp program to display alphabet pattern like I with an asterisk.
+67. Write a C#Sharp program to display alphabet pattern like J with an asterisk.
+68. Write a C#Sharp program to display alphabet pattern like K with an asterisk.
+69. Write a C#Sharp program to display alphabet pattern like L with an asterisk.
+70. Write a C#Sharp program to display alphabet pattern like M with an asterisk.
+71. Write a C#Sharp program to display alphabet pattern like N with an asterisk.
+72. Write a C#Sharp program to display alphabet pattern like O with an asterisk.
+73. Write a C#Sharp program to display alphabet pattern like P with an asterisk.
+74. Write a C#Sharp program to display alphabet pattern like Q with an asterisk.
+75. Write a C#Sharp program to display alphabet pattern like R with an asterisk.
+76. Write a C#Sharp program to display alphabet pattern like S with an asterisk.
+77. Write a C#Sharp program to display alphabet pattern like T with an asterisk.
+78. Write a C#Sharp program to display alphabet pattern like U with an asterisk.
+79. Write a C#Sharp program to display alphabet pattern like V with an asterisk.
+80. Write a C#Sharp program to display alphabet pattern like W with an asterisk.
+81. Write a C#Sharp program to display alphabet pattern like X with an asterisk.
+82. Write a C#Sharp program to display alphabet pattern like Y with an asterisk.
+83. Write a C#Sharp program to display alphabet pattern like Z with an asterisk.
