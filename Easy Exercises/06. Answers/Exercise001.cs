@@ -3,7 +3,7 @@
 // Solution      ::    Easy Exercises
 // Filename      ::    06. Answers.Exercise001.cs
 // Created On    ::    09/07/2018 09:44
-// Altered On    ::    09/07/2018 09:44
+// Altered On    ::    09/07/2018 10:14
 // By            ::    Arjan Crielaard
 
 #endregion

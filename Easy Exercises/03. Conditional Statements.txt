@@ -14,3 +14,35 @@
 		Total in all three subject >=180
 		or
 		Total in Math and Subjects >=140
+11. Write a C# Sharp program to calculate root of Quadratic Equation.
+12. Write a C# Sharp program to read roll no, name and marks of three subjects and calculate the total, percentage and division.
+13. Write a C# Sharp program to read temperature in centigrade and display a suitable message according to temperature state below :
+		Temp < 0 then Freezing weather 
+		Temp 0-10 then Very Cold weather
+		Temp 10-20 then Cold weather
+		Temp 20-30 then Normal in Temp 
+		Temp 30-40 then Its Hot 
+		Temp >=40 then Its Very Hot 
+14. Write a C# Sharp program to check whether a triangle is Equilateral, Isosceles or Scalene.
+15. Write a C# Sharp program to check whether a triangle can be formed by the given value for the angles.
+16. Write a C# Sharp program to check whether an alphabet is a vowel or consonant.
+17. Write a C# Sharp program to calculate profit and loss on a transaction.
+18. Write a program in C# Sharp to calculate and print the Electricity bill of a given customer. The customer id., name and unit consumed by the user should be taken from the keyboard and display the total amount to pay to the customer. The charge are as follow :
+		Unit								Charge/unit
+		upto 199							@1.20
+		200 and above but less than 400		@1.50
+		400 and above but less than 600		@1.80
+		600 and above						@2.00
+19. Write a program in C# Sharp to accept a grade and declare the equivalent description : 	
+		Grade	Description
+		E		Excellent
+		V		Very Good
+		G		Good
+		A		Average
+		F		Fail
+20. Write a program in C# Sharp to read any day number in integer and display day name in the word.
+21. Write a program in C# Sharp to read any digit, display in the word.
+22. Write a program in C# Sharp to read any Month Number in integer and display Month name in the word.
+23. Write a program in C# Sharp to read any Month Number in integer and display the number of days for this month.
+24. Write a program in C# Sharp which is a Menu-Driven Program to compute the area of the various geometrical shape.
+25. Write a program in C# Sharp which is a Menu-Driven Program to perform a simple calculation.

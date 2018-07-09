@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exercise021.cs" />
     <Compile Include="Exercise001.cs" />
     <Compile Include="Exercise002.cs" />
     <Compile Include="Exercise003.cs" />
@@ -50,6 +51,20 @@
     <Compile Include="Exercise008.cs" />
     <Compile Include="Exercise009.cs" />
     <Compile Include="Exercise010.cs" />
+    <Compile Include="Exercise011.cs" />
+    <Compile Include="Exercise012.cs" />
+    <Compile Include="Exercise013.cs" />
+    <Compile Include="Exercise014.cs" />
+    <Compile Include="Exercise015.cs" />
+    <Compile Include="Exercise016.cs" />
+    <Compile Include="Exercise017.cs" />
+    <Compile Include="Exercise018.cs" />
+    <Compile Include="Exercise019.cs" />
+    <Compile Include="Exercise020.cs" />
+    <Compile Include="Exercise022.cs" />
+    <Compile Include="Exercise023.cs" />
+    <Compile Include="Exercise024.cs" />
+    <Compile Include="Exercise025.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

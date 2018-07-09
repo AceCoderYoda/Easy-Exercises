@@ -1,6 +1,19 @@
-﻿using System.Reflection;
-using System.Runtime.CompilerServices;
+﻿#region ...   [Header]   ...
+
+// Solution      ::    Easy Exercises
+// Filename      ::    06. Answers.AssemblyInfo.cs
+// Created On    ::    09/07/2018 09:43
+// Altered On    ::    09/07/2018 10:14
+// By            ::    Arjan Crielaard
+
+#endregion
+
+#region ...   [Usings]   ...
+
+using System.Reflection;
 using System.Runtime.InteropServices;
+
+#endregion
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
