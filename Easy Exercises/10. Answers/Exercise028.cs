@@ -1,0 +1,50 @@
+#region ...   [Header]   ...
+
+// Solution      ::    Easy Exercises
+// Filename      ::    10. Answers.Exercise028.cs
+// Created On    ::    09/07/2018 13:37
+// Altered On    ::    09/07/2018 13:38
+// By            ::    Arjan Crielaard
+
+#endregion
+
+using System;
+
+namespace Easy_Exercises
+{
+    public class Exercise028
+    {
+        public static void Main()
+        {
+            int i, j;
+            int[,] arr1 = new int[10, 10];
+            int det = 0;
+
+
+            Console.Write("\n\nCalculate the determinant of a 3 x 3 matrix :\n");
+            Console.Write("-------------------------------------------------\n");
+
+            Console.Write("Input elements in the matrix :\n");
+            for (i = 0; i < 3; i++)
+            {
+                for (j = 0; j < 3; j++)
+                {
+                    Console.Write("element - [{0}],[{1}] : ", i, j);
+                    arr1[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+            }
+            Console.Write("The matrix is :\n");
+            for (i = 0; i < 3; i++)
+            {
+                for (j = 0; j < 3; j++)
+                    Console.Write("{0}  ", arr1[i, j]);
+                Console.Write("\n");
+            }
+
+            for (i = 0; i < 3; i++)
+                det = det + (arr1[0, i] * (arr1[1, (i + 1) % 3] * arr1[2, (i + 2) % 3] - arr1[1, (i + 2) % 3] * arr1[2, (i + 1) % 3]));
+
+            Console.Write("\nThe Determinant of the matrix is: {0}\n\n", det);
+        }
+    }
+}
