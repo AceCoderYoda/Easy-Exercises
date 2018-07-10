@@ -43,17 +43,30 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="csharp-searching-and-sorting-algorithm-exercise-1.png" />
-    <Content Include="csharp-searching-and-sorting-algorithm-exercise-10.png" />
-    <Content Include="csharp-searching-and-sorting-algorithm-exercise-11.png" />
-    <Content Include="csharp-searching-and-sorting-algorithm-exercise-2.png" />
-    <Content Include="csharp-searching-and-sorting-algorithm-exercise-3.png" />
-    <Content Include="csharp-searching-and-sorting-algorithm-exercise-4.png" />
-    <Content Include="csharp-searching-and-sorting-algorithm-exercise-5.png" />
-    <Content Include="csharp-searching-and-sorting-algorithm-exercise-6.png" />
-    <Content Include="csharp-searching-and-sorting-algorithm-exercise-7.png" />
-    <Content Include="csharp-searching-and-sorting-algorithm-exercise-8.png" />
-    <Content Include="csharp-searching-and-sorting-algorithm-exercise-9.png" />
+    <Content Include="Explanations\bubble-short.png" />
+    <Content Include="Explanations\Insertion-sort-animation.gif" />
+    <Content Include="Explanations\insertion-sort.png" />
+    <Content Include="Explanations\Merge-sort-example-300px.gif" />
+    <Content Include="Explanations\merge_sort.png" />
+    <Content Include="Explanations\quick-sort-part-1.png" />
+    <Content Include="Explanations\quick-sort-part-2.png" />
+    <Content Include="Explanations\selection-short.png" />
+    <Content Include="Explanations\shellsort-example1.png" />
+    <Content Include="Explanations\Sorting_heapsort_anim.gif" />
+    <Content Include="Explanations\Sorting_quicksort_anim.gif" />
+    <Content Include="Explanations\Sorting_shellsort_anim.gif" />
+    <Content Include="Flowcharts\csharp-searching-and-sorting-algorithm-exercise-1.png" />
+    <Content Include="Flowcharts\csharp-searching-and-sorting-algorithm-exercise-10.png" />
+    <Content Include="Flowcharts\csharp-searching-and-sorting-algorithm-exercise-11.png" />
+    <Content Include="Flowcharts\csharp-searching-and-sorting-algorithm-exercise-2.png" />
+    <Content Include="Flowcharts\csharp-searching-and-sorting-algorithm-exercise-3.png" />
+    <Content Include="Flowcharts\csharp-searching-and-sorting-algorithm-exercise-4.png" />
+    <Content Include="Flowcharts\csharp-searching-and-sorting-algorithm-exercise-5.png" />
+    <Content Include="Flowcharts\csharp-searching-and-sorting-algorithm-exercise-6.png" />
+    <Content Include="Flowcharts\csharp-searching-and-sorting-algorithm-exercise-7.png" />
+    <Content Include="Flowcharts\csharp-searching-and-sorting-algorithm-exercise-8.png" />
+    <Content Include="Flowcharts\csharp-searching-and-sorting-algorithm-exercise-9.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
