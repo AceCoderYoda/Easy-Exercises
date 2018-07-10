@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B2BFE0FC-4745-47D7-BA83-D23BDEDD9179}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_23.Questions</RootNamespace>
+    <AssemblyName>_23.Questions</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Explanations\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-1.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-10.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-11.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-12.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-13.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-14.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-15.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-16.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-17.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-18.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-19.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-2.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-20.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-21.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-22.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-23.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-24.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-25.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-26.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-27.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-28.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-29.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-3.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-30.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-31.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-32.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-33.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-34.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-35.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-36.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-37.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-38.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-39.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-4.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-40.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-41.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-42.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-43.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-44.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-45.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-46.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-47.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-48.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-49.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-5.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-50.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-51.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-52.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-53.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-54.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-55.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-56.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-57.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-6.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-7.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-8.png" />
+    <Content Include="Flowcharts\csharp-datetime-exercise-flowchart-9.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

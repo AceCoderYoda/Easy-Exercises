@@ -1,0 +1,56 @@
+1.  Write a C# Sharp program to extract the Date property and display the DateTime value in the formatted output. Go to the editor
+2.  Write a C# Sharp program to display the Day properties (year, month, day, hour, minute, second, millisecond etc.). Go to the editor
+3.  Write a C# Sharp program to get the day of the week for a specified date. Go to the editor
+4.  Write a C# Sharp program to display the number of days of the year between two specified years. Go to the editor
+5.  Write a C# Sharp program to get a DateTime value that represents the current date and time on the local computer. Go to the editor
+6.  Write a C# Sharp program to display the number of ticks that have elapsed since the beginning of the twenty-first century and to instantiate a TimeSpan object using the Ticks property. Go to the editor
+7.  Write a C# Sharp program to get the time of day from a given array of date time values. Go to the editor
+8.  Write a C# Sharp program to retrieve the current date. Go to the editor
+9.  Write a C# Sharp program to calculate what day of the week is 40 days from this moment. Go to the editor
+10. Write a C# Sharp program to determine the day of the week 40 days after the current date. Go to the editor
+11. Write a C# Sharp program to add a number of whole and fractional values to a date and time. Go to the editor
+12. Write C# Sharp Program to add one millisecond and 2.5 milliseconds to a given date value and display each new value and the difference between it and the original value. Go to the editor
+13. Write a C# Sharp Program to add 30 seconds and the number of seconds in one day to a DateTime value. Go to the editor
+14. Write a C# Sharp program to add specified number of months (between zero and fifteen months) to the last day of August, 2016. Go to the editor
+15. Write a C# Sharp program to display the date of past and future fifteen years of a specified date. Go to the editor
+16. Write a C# Sharp program that compares two dates. Go to the editor
+17. Write a C# Sharp Program to create a date one year previously and the date one year in the future compare to the current date. Go to the editor
+18. Write a C# Sharp program to compare the current date with a given date. Go to the editor
+19. Write a C# Sharp program to get the number of days of the specified month and year. Go to the editor
+20. Write a C# Sharp program to compare DateTime objects. Go to the editor
+21. Write a C# Sharp program to convert the specified string representation of a date and time to its DateTime equivalent using the specified array of formats, culture-specific format information, and style. Go to the editor
+22. Write a C# Sharp program which shows that when a time that falls within this range is converted to a long integer value and is then restored and the original value is adjusted to become a valid time. Go to the editor
+23. Write a C# Sharp program to convert the specified Windows file time to an equivalent UTC time. Go to the editor
+24. Write a C# Sharp program to display the string representation of a date using all possible standard date and time formats in the computer's current culture (en-US.). Go to the editor
+25. Write a C# Sharp program to display the string representation of a date using the long date format. Go to the editor
+26. Write a C# Sharp program to display the string representations of a date using the short date format specified for the ja-JP culture. Go to the editor
+27. Write a C# Sharp program to determine the type of a particular object. Go to the editor
+28. Write a C# Sharp program to find the leap years between 1994 and 2014. Go to the editor
+29. Write a C# Sharp program to convert the specified string representation of a date and time to its DateTime equivalent using the specified array of formats, culture-specific format information, and style. Go to the editor
+30. Write a C# Sharp program to get the difference between two dates in days. Go to the editor
+31. Write a C# Sharp program to convert the value of the current DateTime object to local time. Go to the editor
+32. Write a C# Sharp program to convert the value of the current DateTime object to its equivalent long date string representation. Go to the editor
+33. Write a C# Sharp program to convert the value of the current DateTime object to its equivalent long time string representation. Go to the editor
+34. Write a C# Sharp program to convert the value of the current DateTime object to its equivalent short date string representation. Go to the editor
+35. Write a C# Sharp program to convert the value of the current DateTime object to its equivalent short time string representation. Go to the editor
+36. Write a C# Sharp program to convert the value of the current DateTime object to its equivalent string representation using the formatting conventions of the current culture. Go to the editor
+37. Write a C# Sharp program to display the string representation of a date and time using CultureInfo objects that represent five different cultures. Go to the editor
+38. Write a C# Sharp program to use these three format strings to display a date and time value by using the conventions of the en-CA and sv-FI cultures. Go to the editor
+39. Write a C# Sharp program to use each of the standard date time format strings to display the string representation of a date and time for four different cultures. Go to the editor
+40. Write a C# Sharp program to convert the value of the current DateTime object to Coordinated Universal Time (UTC). Go to the editor
+41. Write a C# Sharp program to convert the specified string representation of a date and time to its DateTime equivalent. Go to the editor
+42. Write a C# Sharp program to convert the specified string representation of a date and time to its DateTime equivalent using the specified format, culture-specific format information, and style. Go to the editor 
+43. Write a program in C# Sharp to check whether the given year, month and day are the current or not. Go to the editor
+44. Write a program in C# Sharp to compute what day was yesterday. Go to the editor 
+45. Write a program in C# Sharp to compute what day will be tomorrow. Go to the editor 
+46. Write a program in C# Sharp to get the first day of the current year and first of a year against a given date. Go to the editor
+47. Write a program in C# Sharp to get the last day of the current year against a given date. Go to the editor
+48. Write a program in C# Sharp to get the number of days of a given month for a year. Go to the editor
+49. Write a program in C# Sharp to get the day and month name of current date. Go to the editor 
+50. Write a program in C# Sharp to print the name of the first three letters of month of a year starting form current date. Go to the editor 
+51. Write a program in C# Sharp to print the name of month in full starting from current date. Go to the editor
+52. Write a program in C# Sharp to find the first day of a week against a given date. Go to the editor
+54. Write a program in C# Sharp to find the first day of the month against a given date. Go to the editor
+55. Write a program in C# Sharp to find the last day of a month against a given date. Go to the editor
+56. Write a program in C# Sharp to find the First day of next month against a given date. Go to the editor
+57. Write a program in C# Sharp to find the day for a particular date.
