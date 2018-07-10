@@ -67,6 +67,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Answers", "Easy Exercises\14. Answers\14. Answers.csproj", "{E3997E63-3A84-4D2B-8523-7DE0CBB4EDA6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. Function", "08. Function", "{3F1911EC-5CED-4326-9934-59F36B277E2A}"
+	ProjectSection(SolutionItems) = preProject
+		Easy Exercises\08. Function.txt = Easy Exercises\08. Function.txt
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Questions", "Easy Exercises\15. Questions\15. Questions.csproj", "{EEB5E513-1427-4BE1-9FA0-6D67C3A0B62C}"
 EndProject
