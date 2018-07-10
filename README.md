@@ -336,3 +336,15 @@ Easy todo exercises in C# for beginners.
 28. Write a program in C# Sharp to display the list of items in the array according to the length of the string then by name in ascending order. 
 29. Write a program in C# Sharp to split a collection of strings into some groups.
 30. Write a program in C# Sharp to arrange the distinct elements in the list in ascending order.
+
+## 11. Structure
+1.  Write a program in C# Sharp to declare a simple structure. Go to the editor
+2.  Write a program in C# Sharp to declare a simple structure and use of static fields inside a struct. Go to the editor
+3.  Write a program in C# Sharp to create a nested struct to store two data for an employee in an array. Go to the editor
+4.  Write a program in C# Sharp to create a structure and Assign the Value and call it. Go to the editor
+5.  Write a program in C# Sharp to show what happen when a struct and a class instance is passed to a method. Go to the editor
+6.  Write a program in C# Sharp to declares a struct with a property, a method, and a private field. Go to the editor
+7.  Write a program in C# Sharp to demonstrates struct initialization using both default and parameterized constructors. Go to the editor
+8.  Write a program in C# Sharp to demonstrates struct initialization without using the new operator. Go to the editor
+9.  Write a program in C# Sharp to insert the information of two books. Go to the editor
+10. Write a program in C# Sharp to implement a method that returns a structure including calling the method and using its value.
