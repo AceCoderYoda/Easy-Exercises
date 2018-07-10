@@ -43,16 +43,35 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="csharp-conditional-statement-exercise-1.png" />
-    <Content Include="csharp-conditional-statement-exercise-10.png" />
-    <Content Include="csharp-conditional-statement-exercise-2.png" />
-    <Content Include="csharp-conditional-statement-exercise-3.png" />
-    <Content Include="csharp-conditional-statement-exercise-4.png" />
-    <Content Include="csharp-conditional-statement-exercise-5.png" />
-    <Content Include="csharp-conditional-statement-exercise-6.png" />
-    <Content Include="csharp-conditional-statement-exercise-7.png" />
-    <Content Include="csharp-conditional-statement-exercise-8.png" />
-    <Content Include="csharp-conditional-statement-exercise-9.png" />
+    <Content Include="Explanations\check-even-number %281%29.png" />
+    <Content Include="Explanations\csharp-conditional-statement-image-exercise-14.png" />
+    <Content Include="Explanations\csharp-conditional-statement-image-exercise-24.png" />
+    <Content Include="Explanations\csharp-conditional-statement-image-exercise-8.png" />
+    <Content Include="Explanations\csharp-conditional-statement-image-exercise-9.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-1.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-10.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-11.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-12.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-13.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-15.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-17.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-18.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-19.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-2.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-20.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-21.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-22.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-23.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-24.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-25.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-3.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-4.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-5.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-6.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-7.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-8.png" />
+    <Content Include="Flowcharts\csharp-conditional-statement-exercise-9.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
