@@ -227,3 +227,49 @@ Easy todo exercises in C# for beginners.
 9.  Write a C# Sharp program to sort a list of elements using Quick sort.
 10. Write a C# Sharp program to sort a list of elements using the Radix sort algorithm. 
 11. Write a C# Sharp program to sort a list of elements using the Selection sort algorithm.
+
+## 07. Strings
+1.	Write a program in C# Sharp to input a string and print it. Notepad++ v7.5.7 bug-fixes:
+2. 	Write a program in C# Sharp to find the length of a string without using library function. 
+3. 	Write a program in C# Sharp to separate the individual characters from a string.
+4. 	Write a program in C# Sharp to print individual characters of the string in reverse order.
+5. 	Write a program in C# Sharp to count the total number of words in a string.
+6. 	Write a program in C# Sharp to compare two string without using string library functions.
+7. 	Write a program in C# Sharp to count a total number of alphabets, digits and special characters in a string. 
+8. 	Write a program in C# Sharp to copy one string to another string.
+9. 	Write a program in C# Sharp to count a total number of vowel or consonant in a string.
+10. Write a program in C# Sharp to find maximum occurring character in a string.
+11. Write a program in C# Sharp to sort a string array in ascending order. 
+12. Write a program in C# Sharp to read a string through the keyboard and sort it using bubble sort. 
+13. Write a program in C# Sharp to extract a substring from a given string without using the library function.
+14. Write a C# Sharp program to check whether a given substring is present in the given string.
+15. Write a program in C# Sharp to read a sentence and replace lowercase characters by uppercase and vice-versa.
+16. Write a program in C# Sharp to check the username and password. 
+17. Write a program in C# Sharp to search the position of a substring within a string.
+18. Write a program in C# Sharp to check whether a character is an alphabet and not and if so, go to check for the case. 
+19. Write a program in C# Sharp to find the number of times a substring appears in a given string. 
+20. Write a program in C# Sharp to insert a substring before the first occurrence of a string. 
+21. Write a C# Sharp program to compare (less than, greater than, equal to ) two substrings.
+22. Write a C# Sharp program to compare two substrings that only differ in case. The first comparison ignores case and the second comparison considers case.
+23. Write a C# Sharp program to compare two substrings using different cultures and ignoring the case of the substrings.
+24. Write a C# Sharp program to compare the last names of two people. It then lists them in alphabetical order.
+25. Write a C# Sharp program to compare four sets of words by using each member of the StringComparison enumeration. The comparisons use the conventions of the English (United States) and Sami (Upper Sweden) cultures.
+	Note : The strings "encyclopedia" and "encyclopedia" are considered equivalent in the en-US culture but not in the Sami (Northern Sweden) culture. 
+26.	Write C# Sharp program to demonstrate that the Compare(String, String, Boolean) method is equivalent to using ToUpper or ToLower when comparing strings.
+27. Write a C# Sharp program to demonstrate how culture can affect a comparison.
+28. Write a C# Sharp program to compare two strings in following three different ways produce three different results.
+29. Write a C# Sharp program to compare three versions of the letter "I". The results are affected by the choice of culture, whether case is ignored, and whether an ordinal comparison is performed.
+30. Write a C# Sharp program to demonstrate that CompareOrdinal and Compare use different sort orders.
+31. Write a C# Sharp program to perform and ordinal comparison of two strings that only differ in case.
+32. Write a C# Sharp program to compare a given string with set of strings.
+33. Write a C# Sharp program to compare the current string instance with another string.
+34. Write a C# Sharp program to concatenate three objects, objects with a variable and 3-element object array. 
+35. Write a C# Sharp program to concatenate a list of variable parameters. 
+36. Write a C# Sharp program to concatenate three strings and display the result.
+37. Write a C# Sharp program to concatenate the array values of strings.
+38. Write a C# Sharp program to determine whether the string "birds" is a substring of a familiar. 
+39. Write a C# Sharp program to creates two string objects with different values. When it calls the Copy method to assign the first value to the second string, the output indicates that the strings represent different object references although their values are now equal. On the other hand, when the first string is assigned to the second string, the two strings have identical values because they represent the same object reference.
+40. Write a C# Sharp program to demonstrate the CopyTo method. 
+41. Write a C# Sharp program to indicate whether each string in an array ends with a period (".").
+42. Write C# Sharp program to check whether a string occurs at the end of another string. 
+43. Write a C# Sharp program to determine whether a string ends with a particular substring.
