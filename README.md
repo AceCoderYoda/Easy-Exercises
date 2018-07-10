@@ -406,3 +406,20 @@ Easy todo exercises in C# for beginners.
 55. Write a program in C# Sharp to find the last day of a month against a given date. Go to the editor
 56. Write a program in C# Sharp to find the First day of next month against a given date. Go to the editor
 57. Write a program in C# Sharp to find the day for a particular date.
+
+## 13. File Handling
+1.  Write a program in C# Sharp to create a blank file in the disk newly. Go to the editor
+2.  Write a program in C# Sharp to remove a file from the disk. Go to the editor
+3.  Write a program in C# Sharp to create a blank file in the disk if the same file already exists. Go to the editor
+4.  Write a program in C# Sharp to create a file and add some text. Go to the editor
+5.  Write a program in C# Sharp to create a file with text and read the file. Go to the editor
+6.  Write a program in C# Sharp to create a file and write an array of strings to the file. Go to the editor
+7.  Write a program in C# Sharp to create and write some line of text into a file which does not contain a given string in a line. Go to the editor
+8.  Write a program in C# Sharp to append some text to an existing file. Go to the editor
+9.  Write a program in C# Sharp to create and copy the file to another name and display the content. Go to the editor
+10. Write a program in C# Sharp to create a file and move the file into the same directory to another name. Go to the editor
+11. Write a program in C# Sharp to read the first line from a file. Go to the editor
+12. Write a program in C# Sharp to create and read the last line of a file. Go to the editor
+13. Write a program in C# Sharp to read a specific line from a file. Go to the editor
+14. Write a program in C# Sharp to create and read last n number of lines of a file. Go to the editor
+15. Write a program in C# Sharp to count the number of lines in a file.
