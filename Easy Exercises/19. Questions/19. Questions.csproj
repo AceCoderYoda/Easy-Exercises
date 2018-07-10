@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{324E7439-FCF8-4591-9161-9C5ADD6A8DC2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_19.Questions</RootNamespace>
+    <AssemblyName>_19.Questions</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Explanations\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Flowcharts\csharp-linq-exercise-1.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-10.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-11.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-12.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-13.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-14.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-15.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-16.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-17.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-18.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-19.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-2.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-20.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-21.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-22.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-23.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-24.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-25.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-26.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-27.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-28.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-29.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-3.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-30.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-4.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-5.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-6.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-7.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-8.png" />
+    <Content Include="Flowcharts\csharp-linq-exercise-9.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
