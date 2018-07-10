@@ -304,3 +304,35 @@ Easy todo exercises in C# for beginners.
 13. Write a program in C# Sharp to convert a decimal number to binary using recursion.
 14. Write a program in C# Sharp to get the reverse of a string using recursion.
 15. Write a program in C# Sharp to calculate the power of any number using recursion.
+
+## 10. LINQ
+1.  Write a program in C# Sharp to shows how the three parts of a query operation execute.
+2.  Write a program in C# Sharp to find the +ve numbers from a list of numbers using two where conditions in LINQ Query.
+3.  Write a program in C# Sharp to find the number of an array and the square of each number.
+4.  Write a program in C# Sharp to display the number and frequency of number from giving array.
+5.  Write a program in C# Sharp to display the characters and frequency of character from giving string. 
+6.  Write a program in C# Sharp to display the name of the days of a week.
+7.  Write a program in C# Sharp to display numbers, multiplication of number with frequency and frequency of a number of giving array.
+8.  Write a program in C# Sharp to find the string which starts and ends with a specific character.
+9.  Write a program in C# Sharp to create a list of numbers and display the numbers greater than 80 as output.
+10. Write a program in C# Sharp to Accept the members of a list through the keyboard and display the members more than a specific value. 
+11. Write a program in C# Sharp to display the top n-th records.
+12. Write a program in C# Sharp to find the uppercase words in a string. 
+13. Write a program in C# Sharp to convert a string array to a string.
+14. Write a program in C# Sharp to find the n-th Maximum grade point achieved by the students from the list of students. 
+15. Write a program in C# Program to Count File Extensions and Group it using LINQ.
+16. Write a program in C# Sharp to Calculate Size of File using LINQ.
+17. Write a program in C# Sharp to Remove Items from List using remove function by passing the object. 
+18. Write a program in C# Sharp to Remove Items from List by creating an object internally by filtering.
+19. Write a program in C# Sharp to Remove Items from List by passing filters.
+20. Write a program in C# Sharp to Remove Items from List by passing the item index.
+21. Write a program in C# Sharp to remove a range of items from a list by passing the start index and number of elements to remove.
+22. Write a program in C# Sharp to find the strings for a specific minimum length.
+23. Write a program in C# Sharp to generate a Cartesian Product of two sets.
+24. Write a program in C# Sharp to generate a Cartesian Product of three sets. 
+25. Write a program in C# Sharp to generate an Inner Join between two data sets.
+26. Write a program in C# Sharp to generate a Left Join between two data sets. 
+27. Write a program in C# Sharp to generate a Right Outer Join between two data sets. 
+28. Write a program in C# Sharp to display the list of items in the array according to the length of the string then by name in ascending order. 
+29. Write a program in C# Sharp to split a collection of strings into some groups.
+30. Write a program in C# Sharp to arrange the distinct elements in the list in ascending order.
