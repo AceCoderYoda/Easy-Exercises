@@ -229,15 +229,15 @@ Easy todo exercises in C# for beginners.
 11. Write a C# Sharp program to sort a list of elements using the Selection sort algorithm.
 
 ## 07. Strings
-1.	Write a program in C# Sharp to input a string and print it. Notepad++ v7.5.7 bug-fixes:
-2. 	Write a program in C# Sharp to find the length of a string without using library function. 
-3. 	Write a program in C# Sharp to separate the individual characters from a string.
-4. 	Write a program in C# Sharp to print individual characters of the string in reverse order.
-5. 	Write a program in C# Sharp to count the total number of words in a string.
-6. 	Write a program in C# Sharp to compare two string without using string library functions.
-7. 	Write a program in C# Sharp to count a total number of alphabets, digits and special characters in a string. 
-8. 	Write a program in C# Sharp to copy one string to another string.
-9. 	Write a program in C# Sharp to count a total number of vowel or consonant in a string.
+1. Write a program in C# Sharp to input a string and print it. Notepad++ v7.5.7 bug-fixes:
+2. Write a program in C# Sharp to find the length of a string without using library function. 
+3. Write a program in C# Sharp to separate the individual characters from a string.
+4. Write a program in C# Sharp to print individual characters of the string in reverse order.
+5. Write a program in C# Sharp to count the total number of words in a string.
+6. Write a program in C# Sharp to compare two string without using string library functions.
+7. Write a program in C# Sharp to count a total number of alphabets, digits and special characters in a string. 
+8. Write a program in C# Sharp to copy one string to another string.
+9. Write a program in C# Sharp to count a total number of vowel or consonant in a string.
 10. Write a program in C# Sharp to find maximum occurring character in a string.
 11. Write a program in C# Sharp to sort a string array in ascending order. 
 12. Write a program in C# Sharp to read a string through the keyboard and sort it using bubble sort. 
@@ -273,3 +273,17 @@ Easy todo exercises in C# for beginners.
 41. Write a C# Sharp program to indicate whether each string in an array ends with a period (".").
 42. Write C# Sharp program to check whether a string occurs at the end of another string. 
 43. Write a C# Sharp program to determine whether a string ends with a particular substring.
+
+## 08. Functions
+1.  Write a program in C# Sharp to create a user define function.
+2.  Write a program in C# Sharp to create a user define function with parameters.
+3.  Write a program in C# Sharp to create a function for the sum of two numbers.
+4.  Write a program in C# Sharp to create a function to input a string and count number of spaces are in the string.
+5.  Write a program in C# Sharp to calculate the sum of elements in an array.
+6.  Write a program in C# Sharp to create a function to swap the values of two integer numbers.
+7.  Write a program in C# Sharp to create a function to calculate the result of raising an integer number to another.
+8.  Write a program in C# Sharp to create a function to display the n number Fibonacci sequence.
+9.  Write a program in C# Sharp to create a function to check whether a number is prime or not.
+10. Write a program in C# Sharp to create a function to calculate the sum of the individual digits of a given number.
+11. Write a program in C# Sharp to create a recursive function to find the factorial of a given number.
+12. Write a program in C# Sharp to create a recursive function to calculate the Fibonacci number of a specific term.
