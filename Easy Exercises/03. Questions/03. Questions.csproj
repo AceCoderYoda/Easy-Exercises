@@ -42,5 +42,19 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Explanations\charp-area-of-a-circle-exercise-1.png" />
+    <Content Include="Explanations\check-even-number.png" />
+    <Content Include="Explanations\check-odd-number.png" />
+    <Content Include="Explanations\csharp-area-of-sphere-data-types-exercise-8.png" />
+    <Content Include="Explanations\csharp-data-types-image-exercise-11.png" />
+    <Content Include="Explanations\csharp-volume-of-sphere-data-types-exercise-8.png" />
+    <Content Include="Explanations\even-numbers-1-100.png" />
+    <Content Include="Explanations\odd-numbers-1-100.png" />
+    <Content Include="Explanations\PiR2b.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Flowcharts\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
