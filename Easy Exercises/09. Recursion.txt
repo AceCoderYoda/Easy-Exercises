@@ -1,0 +1,15 @@
+1.  Write a program in C# Sharp to print the first n natural number using recursion.
+2. 	Write a program in C# Sharp to print numbers from n to 1 using recursion.
+3.  Write a program in C# Sharp to find the sum of first n natural numbers using recursion.
+4. 	Write a program in C# Sharp to display the individual digits of a given number using recursion.
+5.  Write a program in C# Sharp to count the number of digits in a number using recursion.
+6. 	Write a program in C to print even or odd numbers in a given range using recursion.
+7.  Write a program in C# Sharp to check whether a number is prime or not using recursion.
+8.  Write a program in C# Sharp to Check whether a given String is Palindrome or not using recursion. 
+9.  Write a program in C# Sharp to find the factorial of a given number using recursion.
+10. Write a program in C# Sharp to find the Fibonacci numbers for a n numbers of series using recursion.
+11. Write a program in C# Sharp to generate all possible permutations of an array using recursion.
+12. Write a program in C# Sharp to find the LCM and GCD of two numbers using recursion. 
+13. Write a program in C# Sharp to convert a decimal number to binary using recursion.
+14. Write a program in C# Sharp to get the reverse of a string using recursion.
+15. Write a program in C# Sharp to calculate the power of any number using recursion.
